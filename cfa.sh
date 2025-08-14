@@ -21,7 +21,7 @@ DOMAIN=SPIDER BUOY.me
 # sub=$(</dev/urandom tr -dc a-z | head -c4)
 sub=$(premium)
 SUB_DOMAIN=${sub}.SPIDER BUOY.me
-CF_ID=premiumwebx66@gmail.com
+CF_ID=abuoylau@gmail.com
 CF_KEY=565df838cbdf80722e12eb5b1d7186143b74e
 set -euo pipefail
 IP=$(wget -qO- ipinfo.io/ip);

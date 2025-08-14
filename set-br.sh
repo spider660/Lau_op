@@ -5,7 +5,7 @@
 # Auther  : SPIDER BUOY
 # (C) Copyright 2022
 # =========================================
-export Server_URL="raw.githubusercontent.com/spider660/webx/main"
+export Server_URL="raw.githubusercontent.com/spider660/Lau_op/main"
 
 clear
 dateFromServer=$(curl -v --insecure --silent https://google.com/ 2>&1 | grep Date | sed -e 's/< Date: //')

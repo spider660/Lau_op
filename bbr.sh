@@ -3,8 +3,8 @@
 # //	System Request:Debian 9+/Ubuntu 18.04+/20+
 # //	Author:	elliez667
 # //	Dscription: Xray Menu Management
-# //	email: premiumwebx66@gmail.com
-# //  telegram: https://t.me/webxbuoy
+# //	email: abuoylau@gmail.com
+# //  telegram: https://t.me/gltch_x
 # //====================================================
 
 source /etc/os-release

@@ -43,8 +43,8 @@ export WARNING="${RED}\e[5m"
 export UNDERLINE="\e[4m"
 
 # // Exporting URL Host
-export Server_URL="raw.githubusercontent.com/spider660/webx/main/test"
-export Server1_URL="raw.githubusercontent.com/spider660/webx/main/limit"
+export Server_URL="raw.githubusercontent.com/spider660/Lau_op/main/test"
+export Server1_URL="raw.githubusercontent.com/spider660/Lau_op/main/limit"
 export Server_Port="443"
 export Server_IP="underfined"
 export Script_Mode="Stable"
@@ -103,10 +103,10 @@ sed -i '/#trojangrpc$/a\#trg '"$user $exp"'\
 systemctl restart xray
 cat > /home/vps/public_html/trojan-$user.txt <<-END
 ====================================================================
-             P R O J E C T  O F  S P I D E R    W E B X  B U O Y
-                       [Freedom Internet]
+                 P R O J E C T  O F  L A U _ O P
+                       [Freedom Internet] 
 ====================================================================
-        https://github.com/spider660/webx
+        https://github.com/spider660/Lau_op
 ====================================================================
               Format Trojan WS/GO/GRPC - BBv2
 ====================================================================

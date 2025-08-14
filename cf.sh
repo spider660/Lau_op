@@ -12,7 +12,7 @@ apt install jq curl -y
 sub=$(premium)
 DOMAIN=SPIDER BUOY.me
 SUB_DOMAIN=${sub}.SPIDER BUOY.me
-CF_ID=premiumwebx66@gmail.com
+CF_ID=abuoylau@gmail.com
 CF_KEY=565df838cbdf80722e12eb5b1d7186143b74e
 set -euo pipefail
 IP=$(curl -sS ifconfig.me);

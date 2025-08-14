@@ -45,8 +45,8 @@ export WARNING="${RED}\e[5m"
 export UNDERLINE="\e[4m"
 
 # // Exporting URL Host
-export Server_URL="raw.githubusercontent.com/spider660/webx/main/test"
-export Server1_URL="raw.githubusercontent.com/spider660/webx/main/limit"
+export Server_URL="raw.githubusercontent.com/spider660/Lau_op/main/test"
+export Server1_URL="raw.githubusercontent.com/spider660/Lau_op/main/limit"
 export Server_Port="443"
 export Server_IP="underfined"
 export Script_Mode="Stable"
@@ -412,7 +412,7 @@ menu
 }
 clear
 echo -e "${BICyan} ┌─────────────────────────────────────────────────────┐${NC}"
-echo -e "       ${BIWhite}${UWhite}SSH MENU ${NC}"
+echo -e "       ${BIWhite}${UWhite} GLITCH SSH MENU ${NC}"
 echo -e ""
 echo -e "     ${BICyan}[${BIWhite}1${BICyan}] Add Account SSH      "
 echo -e "     ${BICyan}[${BIWhite}2${BICyan}] Delete Account SSH      "

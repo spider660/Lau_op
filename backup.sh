@@ -47,7 +47,7 @@ id=(`echo $url | grep '^https' | cut -d'=' -f2`)
 link="https://drive.google.com/u/4/uc?id=${id}&export=download"
 clear
 echo -e "\033[1;37mVPS Data Backup By SPIDER BUOY\033[0m
-\033[1;37mTelegram : https://t.me/webxbuoy / @SPIDER BUOY\033[0m"
+\033[1;37mTelegram : https://t.me/gltch_x / Glitch\033[0m"
 echo ""
 echo "Please Copy Link Below & Save In Notepad"
 echo ""
